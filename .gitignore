@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+imu_mouse_env/
+.DS_Store
