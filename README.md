@@ -54,13 +54,8 @@ arduino/mega_mpu6050_sender/mega_mpu6050_sender.ino
 Close Arduino Serial Monitor before running the Python script.
 3) Run receiver
 
+
 source ~/imu_mouse_env/bin/activate
 python pc/serial_mouse_rx.py
 
-Controls:
 
-    Space = pause/resume
-
-    Ctrl+C = quit
-
-Port is set to /dev/ttyUSB0 by default.
