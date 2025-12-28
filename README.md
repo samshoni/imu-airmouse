@@ -36,8 +36,7 @@ Install in Arduino IDE:
 
 ### Ubuntu (Python)
 Works best on X11:
-```bash
-echo $XDG_SESSION_TYPE
+
 
 Quick Start (Ubuntu)
 1) Create venv + install deps
